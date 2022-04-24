@@ -1,0 +1,3 @@
+Neste módulo entendi como funcionam as redes de computadores o que é um encapsulamento e o desencapsulamento e o quão importante
+é este método para a segurança dos dados que navegam pela rede.
+Aprendi um pouco sobre o método OSI e seus protocolos.

@@ -1,0 +1,9 @@
+Principais comandos do GIT
+git init
+git clone
+git push
+git pull
+git status
+git add
+git commit -m ""
+
